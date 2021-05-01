@@ -1,4 +1,4 @@
-(ns clj-whitespace.parser
+(ns erasure.parser
   (:require [clojure.core.match :refer [match]])
   (:require [instaparse.core :as insta :refer [defparser]])
   (:gen-class))

@@ -1,6 +1,6 @@
 (defproject erasure "2.0"
   :description "A Whitespace compiler in Clojure"
-  :url "https://github.com/jacksyou/clj-whitespace"
+  :url "https://github.com/jmesyou/erasure"
   :license {:name "MIT Public License"
             :url "https://opensource.org/licenses/MIT"}
   :dependencies [[org.clojure/clojure "1.8.0"]

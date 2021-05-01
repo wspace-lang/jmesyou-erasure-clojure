@@ -1,6 +1,6 @@
 (ns erasure.core-test
   (:require [clojure.test :refer :all]
-            [clj-whitespace.core :refer :all]))
+            [erasure.core :refer :all]))
 
 (deftest hello-world-test
   (testing "Program should output: `hello world`"

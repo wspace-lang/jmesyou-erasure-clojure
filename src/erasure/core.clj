@@ -14,7 +14,7 @@
   (defn usage [options-summary]
   (->> ["This program executes Whitespace source, with the option of producing an intermediate representation."
         ""
-        "Usage: clj-whitespace [options] source-file"
+        "Usage: erasure [options] source-file"
         ""
         "Options:"
         options-summary
